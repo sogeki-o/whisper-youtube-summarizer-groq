@@ -1,0 +1,12 @@
+streamlit
+validators
+python-dotenv
+yt-dlp
+openai-whisper
+torch
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+unstructured
